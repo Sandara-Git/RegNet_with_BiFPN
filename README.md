@@ -6,4 +6,5 @@ Implementation of RegNet which builds on ResNet by adding an RNN-Regulator Modul
 
 # References
 https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch/tree/master
+
 https://github.com/TrevorIkky/RegNet
